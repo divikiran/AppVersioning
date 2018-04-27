@@ -1,0 +1,26 @@
+Function=xamarin_timezone_get_data
+	/Users/divikiranravela/Documents/GitHub/AppVersioning/AppVersioning/iOS/obj/iPhone/Staging/mtouch-cache/Link/mscorlib.dll
+Function=xamarin_GetFolderPath
+	/Users/divikiranravela/Documents/GitHub/AppVersioning/AppVersioning/iOS/obj/iPhone/Staging/mtouch-cache/Link/mscorlib.dll
+Function=xamarin_log
+	/Users/divikiranravela/Documents/GitHub/AppVersioning/AppVersioning/iOS/obj/iPhone/Staging/mtouch-cache/Link/mscorlib.dll
+Function=xamarin_get_block_descriptor
+	/Users/divikiranravela/Documents/GitHub/AppVersioning/AppVersioning/iOS/obj/iPhone/Staging/mtouch-cache/Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr
+	/Users/divikiranravela/Documents/GitHub/AppVersioning/AppVersioning/iOS/obj/iPhone/Staging/mtouch-cache/Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr
+	/Users/divikiranravela/Documents/GitHub/AppVersioning/AppVersioning/iOS/obj/iPhone/Staging/mtouch-cache/Link/Xamarin.iOS.dll
+Function=UIApplicationMain
+	/Users/divikiranravela/Documents/GitHub/AppVersioning/AppVersioning/iOS/obj/iPhone/Staging/mtouch-cache/Link/Xamarin.iOS.dll
+Function=CreateZStream
+	/Users/divikiranravela/Documents/GitHub/AppVersioning/AppVersioning/iOS/obj/iPhone/Staging/mtouch-cache/Link/System.dll
+Function=CloseZStream
+	/Users/divikiranravela/Documents/GitHub/AppVersioning/AppVersioning/iOS/obj/iPhone/Staging/mtouch-cache/Link/System.dll
+Function=Flush
+	/Users/divikiranravela/Documents/GitHub/AppVersioning/AppVersioning/iOS/obj/iPhone/Staging/mtouch-cache/Link/System.dll
+Function=ReadZStream
+	/Users/divikiranravela/Documents/GitHub/AppVersioning/AppVersioning/iOS/obj/iPhone/Staging/mtouch-cache/Link/System.dll
+Function=WriteZStream
+	/Users/divikiranravela/Documents/GitHub/AppVersioning/AppVersioning/iOS/obj/iPhone/Staging/mtouch-cache/Link/System.dll
+Function=xamarin_start_wwan
+	/Users/divikiranravela/Documents/GitHub/AppVersioning/AppVersioning/iOS/obj/iPhone/Staging/mtouch-cache/Link/System.dll

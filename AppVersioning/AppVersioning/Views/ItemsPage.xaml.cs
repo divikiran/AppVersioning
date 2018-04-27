@@ -15,6 +15,16 @@ namespace AppVersioning
             InitializeComponent();
 
             BindingContext = viewModel = new ItemsViewModel();
+
+#if Dev
+            Title = "Browse Dev";
+#elif Stage
+            Title = "Browse Stage";
+#elif Prod
+            Title = "Browse Prod";
+#else
+            Title = "Browse";
+#endif
         }
 
         async void OnItemSelected(object sender, SelectedItemChangedEventArgs args)

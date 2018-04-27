@@ -41,13 +41,23 @@ namespace AppVersioning
             Children.Add(itemsPage);
             Children.Add(aboutPage);
 
+#if Dev
+            Title = Children[0].Title+ " Dev";
+#elif Stage
+            Title = Children[0].Title+ " Staging";
+#elif Prod
+            Title = Children[0].Title + " Prod";
+#else
             Title = Children[0].Title;
+#endif
+
         }
 
         protected override void OnCurrentPageChanged()
         {
             base.OnCurrentPageChanged();
             Title = CurrentPage?.Title ?? string.Empty;
+
         }
     }
 }
