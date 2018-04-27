@@ -1,0 +1,5 @@
+/Users/divikiranravela/Documents/GitHub/AppVersioning/AppVersioning/packages/Xamarin.Forms.2.5.0.121934/lib/MonoAndroid10/FormsViewGroup.dll
+/Users/divikiranravela/Documents/GitHub/AppVersioning/AppVersioning/packages/Xam.Plugin.Connectivity.3.0.2/lib/MonoAndroid10/Plugin.Connectivity.dll
+/Users/divikiranravela/Documents/GitHub/AppVersioning/AppVersioning/packages/Xamarin.Forms.2.5.0.121934/lib/MonoAndroid10/Xamarin.Forms.Core.dll
+/Users/divikiranravela/Documents/GitHub/AppVersioning/AppVersioning/packages/Xamarin.Forms.2.5.0.121934/lib/MonoAndroid10/Xamarin.Forms.Platform.Android.dll
+/Users/divikiranravela/Documents/GitHub/AppVersioning/AppVersioning/packages/Xamarin.Forms.2.5.0.121934/lib/MonoAndroid10/Xamarin.Forms.Xaml.dll
