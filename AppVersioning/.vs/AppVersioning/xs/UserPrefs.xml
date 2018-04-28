@@ -1,7 +1,8 @@
 ﻿<Properties StartupConfiguration="{1ECD7078-5F3E-4C70-AA8A-F4DE51CDF22C}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Droid/AppVersioning.Droid.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Droid/MainActivity.cs">
     <Files>
-      <File FileName="Droid/AppVersioning.Droid.csproj" Line="7" Column="6" />
+      <File FileName="Droid/AppVersioning.Droid.csproj" Line="24" Column="5" />
+      <File FileName="Droid/MainActivity.cs" Line="6" Column="21" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Prod" />

@@ -10,7 +10,7 @@ using Android.OS;
 
 namespace AppVersioning.Droid
 {
-    [Activity(Icon = "@drawable/icon", NoHistory = true, Theme = "@style/MyTheme", MainLauncher = true, ConfigurationChanges = ConfigChanges.ScreenSize | ConfigChanges.Orientation)]
+    [Activity(Label="AppVersioning.Droid", Icon = "@drawable/icon", NoHistory = true, Theme = "@style/MyTheme", MainLauncher = true, ConfigurationChanges = ConfigChanges.ScreenSize | ConfigChanges.Orientation)]
     public class MainActivity : global::Xamarin.Forms.Platform.Android.FormsAppCompatActivity
     {
         protected override void OnCreate(Bundle bundle)
